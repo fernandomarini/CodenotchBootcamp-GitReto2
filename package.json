@@ -1,0 +1,11 @@
+{
+  "name": "codenotchbootcamp-gitreto2",
+  "version": "1.0.0",
+  "description": "Pasos:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ferms114",
+  "license": "ISC"
+}
